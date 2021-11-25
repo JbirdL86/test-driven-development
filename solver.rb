@@ -13,4 +13,8 @@ class Solver
      n * factorial(n-1) unless n < 0
     end
   end
+
+  def reverse(string)
+    string.reverse!
+  end
 end
