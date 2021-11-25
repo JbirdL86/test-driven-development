@@ -11,4 +11,11 @@ describe Solver do
       expect(new_solver.factorial(4)).to eq 24
     end
   end
+  
+  context 'When testing the Solver reverse method' do
+    it 'Should return a reverse string' do
+      new_solver = Solver.new
+      expect(new_solver.reverse('hello')).to eq 'olleh'
+    end
+  end
 end
