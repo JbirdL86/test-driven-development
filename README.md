@@ -37,9 +37,9 @@
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/juan-felipe-gomez-tobon/)
 
 👤 Mateo Villagómez<br>
-GitHub: [@mateo951](https://github.com/mateo951)<br>
-Twitter: [@MVGameDev](https://twitter.com/MVGameDev)<br>
-LinkedIn: [@Mateo Villagómez](https://www.linkedin.com/in/mateo-villagómez/)<br>
+- GitHub: [@mateo951](https://github.com/mateo951)<br>
+- Twitter: [@MVGameDev](https://twitter.com/MVGameDev)<br>
+- LinkedIn: [@Mateo Villagómez](https://www.linkedin.com/in/mateo-villagómez/)<br>
 
 ## 🤝 Contributing
 
