@@ -7,8 +7,8 @@ describe Solver do
       expect(new_solver.class.to_s).to eq 'Solver'
     end
     it 'Should return the factorial for a given number' do
-      new_solver = Solver.new_solver
-      expect(new_solver.factorial(3)).to eq 6
+      new_solver = Solver.new
+      expect(new_solver.factorial(4)).to eq 24
     end
   end
 end
