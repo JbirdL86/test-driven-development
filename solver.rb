@@ -12,7 +12,11 @@ class Solver
   end
 
   def reverse(string)
-    string.reverse!
+    if string.is_a? String
+      return string.reverse!
+    end
+
+    'Parameter should be a string'
   end
 
   def fizzbuzz(number)
